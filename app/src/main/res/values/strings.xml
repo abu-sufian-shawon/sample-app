@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Frutas Y Verduras</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="place_order">Enviar Orden</string>
+    <string name="save">GUARDAR</string>
+    <string name="requisition_successfully_sent">Enviado Exitosamente</string>
+    <string name="your_all_orders">Tus Todas Las Ordenes</string>
+    <string name="selected_product">Selected Product</string>
+    <string name="n_mero_de_tienda">Número de tienda</string>
+    <string name="date_example">12/12/2021</string>
+    <string name="shop_number">Número de tienda</string>
+    <string name="set_date">Establece la fecha</string>
+    <string name="no_product_selected">No Product Selected</string>
+    <string name="back">Back</string>
+    <string name="send_order">Enviar solicitud</string>
+    <string name="requisition">Requisition</string>
+    <string name="hash_sign">#</string>
+    <string name="date">Fecha:</string>
+    <string name="shop">Tienda:</string>
+    <string name="contact">Contacto:</string>
+    <string name="address">Dirección:</string>
+    <string name="order_status">Order Status:</string>
+    <string name="s_n">S/N</string>
+    <string name="producto">Producto</string>
+    <string name="netto">Netto</string>
+    <string name="total_price">Total Price</string>
+    <string name="zero_point_zero">0.0</string>
+    <string name="grand_total">Grand Total :</string>
+    <string name="paid_amount">Paid Amount :</string>
+    <string name="due_amount">Due Amount :</string>
+    <string name="your_last_orders">Tu último pedido</string>
+    <string name="enter_shop_number">Enter Shop Number</string>
+    <string name="search">Search</string>
+    <string name="no_order_found">No Order Found</string>
+    <string name="total_product">Total Product :\u0020</string>
+    <string name="zero">0</string>
+    <string name="update_order">Update Order</string>
+    <string name="search_products">Buscar Productos</string>
+    <string name="aguacate_b">AGUACATE B</string>
+    <string name="_100_bandeja">100 Bandeja</string>
+    <string name="todo">TODO</string>
+    <string name="contact_us">Contact us</string>
+    <string name="previous_orders">Previous Orders</string>
+    <string name="track_your_order">Track Your Order</string>
+    <string name="create_requisition">Create Requisition</string>
+    <string name="update">Update</string>
+    <string name="text_remove_message">If you remove this product from cart, It will be permanently deleted. Press Confirm to remove or cancel to dismiss</string>
+
+    <string name="text_place_order_message">
+        If you want to place your order, Press <b>CONFIRM</b>.
+    </string>
+
+    <string name="text_update_order_message">
+        Are you sure to update order? If yes, then press CONFIRM.
+    </string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="are_you_sure">Are you sure?</string>
+</resources>
